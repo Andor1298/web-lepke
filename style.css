@@ -1,0 +1,46 @@
+.nap{
+    background-color: darkslategray;
+}
+#cim{
+    color: white;
+    text-align: center;
+}
+
+.tabl{
+    width: 640px;
+    margin: 0 auto;
+    background-image: url(hatter.jpg);
+}
+td,tr{
+    margin: 5px;
+    padding: 5px;
+}
+
+#k1{
+    display: block;
+    float: left;
+    border: 1px;
+}
+#k2{
+    display: block;
+    float: right;
+    border: 1px;
+    width: 220px;
+}
+
+a,a:visited{
+    color: black;
+}
+.szoveg{
+    font-size: 20px;
+}
+.ejjel{
+    background-color: darkslategray;
+}
+.szov{
+    color: white;
+}
+.k3{
+    display: block;
+    float: left;
+}
